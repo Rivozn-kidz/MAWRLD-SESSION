@@ -88,7 +88,7 @@ Thanks for using *MARWLD MD* — your session has been successfully created!
 
 *✅ Stay Updated:*  
 Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029VaXVc0NFy725FNnYvc32
+https://whatsapp.com/channel/0029Vb73EYZFXUujAoHFor1i
 
 ——————
 
@@ -99,8 +99,8 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "MARWLD MD",
-thumbnailUrl: "https://i.ibb.co/LDbPq08m/20250925-215638.png",
-sourceUrl: "https://whatsapp.com/channel/0029VaXVc0NFy725FNnYvc32",
+thumbnailUrl: "https://files.catbox.moe/qwpimr.png",
+sourceUrl: "https://whatsapp.com/channel/0029Vb73EYZFXUujAoHFor1i",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -120,7 +120,7 @@ Thanks for using *MARWLD MD* — your session has been successfully created!
 
 *✅ Stay Updated:*  
 Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029VaXVc0NFy725FNnYvc32
+https://whatsapp.com/channel/0029Vb73EYZFXUujAoHFor1i
 
 ——————
 
@@ -130,8 +130,8 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "MARWLD MD",
-thumbnailUrl: "https://i.ibb.co/LDbPq08m/20250925-215638.png",
-sourceUrl: "https://whatsapp.com/channel/0029VaXVc0NFy725FNnYvc32",
+thumbnailUrl: "https://files.catbox.moe/qwpimr.png",
+sourceUrl: "https://whatsapp.com/channel/0029Vb73EYZFXUujAoHFor1i",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
