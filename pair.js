@@ -13,13 +13,13 @@ function removeFile(FilePath) {
 router.get('/', async (req, res) => {
     const id = makeid();
     let num = req.query.number;
-    async function MARWLD_MD_PAIR_CODE() {
+    async function MAWRLD_MD_PAIR_CODE() {
         const {
             state,
             saveCreds
         } = await useMultiFileAuthState('./temp/' + id);
         try {
-var items = ["Safari"];
+var items = ["Edge"];
 function selectRandomItem(array) {
   var randomIndex = Math.floor(Math.random() * array.length);
   return array[randomIndex];
@@ -77,28 +77,31 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "Mawrld~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*Hey there, MARWLD MD User!* 👋🏻
+                            let desc = 
+`*Arise Little Alien 👽!*   
 
-Thanks for using *MARWLD MD* — your session has been successfully created!
+Your *Passcode to MAWRLD* has been forged successfully.  
 
-🔐 *Session ID:* Sent above  
-⚠️ *Keep it safe!* Do NOT share this ID with anyone.
+🔮 *MAWRLD PASSCODE:* Sent above  
+⚠️ *Keep it safe!* Sharing this could lead into interrogations.  
 
-——————
+——————  
 
-*✅ Stay Updated:*  
-Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029Vb73EYZFXUujAoHFor1i
+*📢 Stay Close to the boarders:*  
+Join the official RIDZ TECH INC Channel:  
+https://chat.whatsapp.com/K0t8JwgOO1zJxqF2YtMX6A  
 
-——————
 
-> *©Cʀᴇᴀᴛᴇᴅ ʙʏ Rɪᴅᴢ Cᴏᴅᴇʀ*
-Stay cool and hack smart. ✌🏻`; 
+
+——————  
+
+> *© RIDZ CODER CREATED*  
+YOU'RE MOST WELCOME TO MAWRLD`;
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "MARWLD MD",
+title: "WELCOME TO MAWRLD 🔮",
 thumbnailUrl: "https://files.catbox.moe/qwpimr.png",
 sourceUrl: "https://whatsapp.com/channel/0029Vb73EYZFXUujAoHFor1i",
 mediaType: 1,
@@ -109,27 +112,31 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `Hey there, MARWLD MD User!* 👋🏻
+                           let desc = 
+`*Arise Little Alien 👽!*   
 
-Thanks for using *MARWLD MD* — your session has been successfully created!
+Your *Passcode to MAWRLD* has been forged successfully.  
 
-🔐 *Session ID:* Sent above  
-⚠️ *Keep it safe!* Do NOT share this ID with anyone.
+🔮 *MAWRLD PASSCODE:* Sent above  
+⚠️ *Keep it safe!* Sharing this could lead into interrogations.  
 
-——————
+——————  
 
-*✅ Stay Updated:*  
-Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029Vb73EYZFXUujAoHFor1i
+*📢 Stay Close to the boarders:*  
+Join the official RIDZ TECH INC Channel:  
+https://chat.whatsapp.com/K0t8JwgOO1zJxqF2YtMX6A  
 
-——————
 
-> *©Cʀᴇᴀᴛᴇᴅ ʙʏ Rɪᴅᴢ Cᴏᴅᴇʀ*`;
+
+——————  
+
+> *© RIDZ CODER CREATED*  
+YOU'RE MOST WELCOME TO MAWRLD`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "MARWLD MD",
+title: "WELCOME TO MAWRLD 🔮",
 thumbnailUrl: "https://files.catbox.moe/qwpimr.png",
 sourceUrl: "https://whatsapp.com/channel/0029Vb73EYZFXUujAoHFor1i",
 mediaType: 2,
@@ -143,26 +150,22 @@ showAdAttribution: true
                     await delay(10);
                     await sock.ws.close();
                     await removeFile('./temp/' + id);
-                    console.log(`👤 ${sock.user.id} 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗲𝗱 ✅ 𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗶𝗻𝗴 𝗽𝗿𝗼𝗰𝗲𝘀𝘀...`);
+                    console.log(`👤 ${sock.user.id} 🖤 𝗔𝗿𝗶𝘀𝗲! Connected as Shadow ✅ Restarting process...`);
                     await delay(10);
                     process.exit();
                 } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10);
-                    MARWLD_MD_PAIR_CODE();
+                    MAWRLD_MD_PAIR_CODE();
                 }
             });
         } catch (err) {
-            console.log("service restated");
+            console.log("⚠️ Shadow realm collapsed — Restarting service...");
             await removeFile('./temp/' + id);
             if (!res.headersSent) {
-                await res.send({ code: "❗ Service Unavailable" });
+                await res.send({ code: "❗ Shadow Gate Closed (Service Unavailable)" });
             }
         }
     }
-   return await MARWLD_MD_PAIR_CODE();
-});/*
-setInterval(() => {
-    console.log("☘️ 𝗥𝗲𝘀𝘁𝗮𝗿𝘁𝗶𝗻𝗴 𝗽𝗿𝗼𝗰𝗲𝘀𝘀...");
-    process.exit();
-}, 180000); //30min*/
+   return await MAWRLD_MD_PAIR_CODE();
+});
 module.exports = router;
