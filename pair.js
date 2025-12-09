@@ -89,7 +89,7 @@ Your *Passcode to MAWRLD* has been forged successfully.
 
 *📢 Stay Close to the boarders:*  
 Join the official RIDZ TECH INC Channel:  
-https://chat.whatsapp.com/K0t8JwgOO1zJxqF2YtMX6A  
+https://whatsapp.com/channel/0029Vb73EYZFXUujAoHFor1i  
 
 
 
@@ -124,7 +124,7 @@ Your *Passcode to MAWRLD* has been forged successfully.
 
 *📢 Stay Close to the boarders:*  
 Join the official RIDZ TECH INC Channel:  
-https://chat.whatsapp.com/K0t8JwgOO1zJxqF2YtMX6A  
+https://whatsapp.com/channel/0029Vb73EYZFXUujAoHFor1i  
 
 
 
